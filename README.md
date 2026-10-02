@@ -12,8 +12,8 @@ This is the Vision-Based Autonomous Navigation for UGV dashboard for the SIH pro
 
 ```bash
 # 1. Clone the repository
-git clone <YOUR_GITHUB_REPO_URL>
-cd "UGV dshboard"
+git clone https://github.com/TejasvPatel09/ugv-dashboard.git
+cd ugv-dashboard
 
 # 2. Install dependencies
 npm install
